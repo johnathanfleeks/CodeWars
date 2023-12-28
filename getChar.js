@@ -6,4 +6,4 @@
 // 97 --> 'a'
 // 48 --> '0
 
-const getChar = String.fromCharCode
+const getChar = String.fromCharCode()
